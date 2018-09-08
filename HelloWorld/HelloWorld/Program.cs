@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Привет мир!!!!");
             Console.WriteLine("What's up!");
+            Console.WriteLine("What's up maan");
             Console.ReadKey();
         }
     }
